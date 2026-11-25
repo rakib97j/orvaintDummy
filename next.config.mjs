@@ -3,8 +3,9 @@ const nextConfig = {
   /* config options here */
   output: 'export',
   distDir: 'dist',
-  cacheComponents: true,
-  partialPrefetching: true,
+  images: {
+    unoptimized: true,
+  },
   reactCompiler: true,
   turbopack: {
     rules: {
