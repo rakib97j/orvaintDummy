@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "ORVAINT — Redefining Elegance | Coming Soon",
+  title: "ORVAINT — Coming Soon",
   description:
     "ORVAINT is a premium jewelry & accessories brand. Something extraordinary is coming. Join the VIP early-access list.",
   icons: {
